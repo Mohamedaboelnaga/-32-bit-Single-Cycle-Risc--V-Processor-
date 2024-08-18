@@ -1,0 +1,1 @@
+A single-cycle RISC-V processor, which consists of the following modules: Arithmetic Logic Unit (ALU) Control unit, Main decoder, Sign Extension, and Register File. The processor was tested with a program that generates a Fibonacci series
